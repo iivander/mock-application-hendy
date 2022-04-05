@@ -1,0 +1,32 @@
+#yourVehicle {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 2rem;
+
+  & .vehicle-image {
+    // Mobile-screen
+    @media (max-width: 767px) {
+      margin-top: 3rem;
+      max-height: 200px;
+      object-fit: cover;
+      object-position: top;
+    }
+
+    // Web-screen
+    @media (min-width: 768px) {
+      transform: scale(.5);
+      height: 400px;
+      align-self: center;
+    }
+  }
+
+  & .your-vehicle-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1.5rem;
+  }
+
+  & .your-vehicle-cancel-button {
+    margin-top: 2rem;
+  }
+}

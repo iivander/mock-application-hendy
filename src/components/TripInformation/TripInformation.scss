@@ -1,0 +1,55 @@
+#yourTrip {
+    padding: 7rem 2rem 2rem;
+
+    & .your-trip-header-details {
+        margin-bottom: 3rem;
+    }
+
+    & .your-trip-info-details {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 1.5rem;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+
+    & .your-trip-address-details {
+        display: flex;
+        flex-direction: column;
+        row-gap: .5rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    & .your-trip-note-details {
+        display: flex;
+        align-items: flex-end;
+        text-align: left;
+        margin: 2rem 0;
+
+        & .trip-note {
+            min-width: 0;
+            max-width: 75%;
+        }
+
+        & .edit-button {
+            width: 14px;
+            height: 14px;
+            cursor: pointer;
+            margin-bottom: .125rem;
+            margin-left: .5rem;
+        }
+    }
+
+    & .your-trip-cancel-button {
+        @media (max-width: 767px) {
+            margin-top: .5rem;
+        }
+
+        @media (min-width: 768px) {
+            margin-top: 2rem;
+        }
+    }
+}
+
+

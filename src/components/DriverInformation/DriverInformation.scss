@@ -1,0 +1,33 @@
+#yourDriver {
+  padding: 2rem 2rem;
+
+  & .driver-image {
+    width: 100%;
+
+    // Mobile-screen
+    @media (max-width: 767px) {
+      transform: scale(1.8);
+      max-height: 200px;
+      object-fit: cover;
+      object-position: top;
+    }
+
+    // Web-screen
+    @media (min-width: 768px) {
+      transform: scale(1);
+      max-height: 400px;
+      object-fit: cover;
+      object-position: 0 25%;
+    }
+  }
+
+  & .driver-description-title {
+    @media (max-width: 767px) {
+      margin-top: 6.5rem;
+    }
+  }
+
+  & .your-driver-cancel-button {
+    margin-top: 2rem;
+  }
+}

@@ -15,7 +15,6 @@ const TripContext = createContext();
 
 const TripProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState);
-  console.log(state)
 
   return (
     <TripContext.Provider value={{ state, dispatch }}>

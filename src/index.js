@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
+import { TripProvider } from './contexts/TripContext/TripContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <TripProvider>
+      <App />
+    </TripProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );

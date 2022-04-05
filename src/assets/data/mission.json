@@ -1,8 +1,8 @@
 {
   "trip": {
     "estimated_arrival": "Fri, 28 Sep 2018 14:22:17 GMT",
-    "estimated_fare_min": 6500,
-    "estimated_fare_max": 7500,
+    "estimated_fare_min": 65.00,
+    "estimated_fare_max": 75.00,
     "passengers_min": 1,
     "passengers_max": 5,
     "payment": "Amex01",

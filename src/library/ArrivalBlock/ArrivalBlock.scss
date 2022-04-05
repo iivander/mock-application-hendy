@@ -1,0 +1,15 @@
+.arrival-time {
+  margin-bottom: 2rem;
+
+  & .arrival-block-hour-minutes {
+    font-size: 60px;
+  }
+
+  & .arrival-block-hour12 {
+    font-size: 22px;
+  }
+
+  & .arrival-time-location {
+    line-height: 26px;
+  }
+}

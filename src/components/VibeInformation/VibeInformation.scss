@@ -1,0 +1,30 @@
+#yourVibe {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 2rem;
+
+  & .map-overview {
+    // Mobile-screen
+    @media (max-width: 767px) {
+      object-fit: cover;
+      object-position: top;
+    }
+
+    // Web-screen
+    @media (min-width: 768px) {
+      transform: scale(1);
+      height: 400px;
+      align-self: center;
+    }
+  }
+
+  & .your-vehicle-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1.5rem;
+  }
+
+  & .your-vibe-change-button {
+    margin-top: 2rem;
+  }
+}

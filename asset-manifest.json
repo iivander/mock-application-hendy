@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mock-application-hendy/static/css/main.e9e84470.css",
+    "main.css": "/mock-application-hendy/static/css/main.edd82638.css",
     "main.js": "/mock-application-hendy/static/js/main.b1739205.js",
     "static/js/787.af94f0b6.chunk.js": "/mock-application-hendy/static/js/787.af94f0b6.chunk.js",
     "static/media/Driver_photo.png": "/mock-application-hendy/static/media/Driver_photo.e0f4fd385e9c9378805c.png",
     "static/media/Vehicle_photo.png": "/mock-application-hendy/static/media/Vehicle_photo.c1252ef9b5bf473f9c9e.png",
     "static/media/Map_overview.png": "/mock-application-hendy/static/media/Map_overview.88a0168b670e775df5ff.png",
     "index.html": "/mock-application-hendy/index.html",
-    "main.e9e84470.css.map": "/mock-application-hendy/static/css/main.e9e84470.css.map",
+    "main.edd82638.css.map": "/mock-application-hendy/static/css/main.edd82638.css.map",
     "main.b1739205.js.map": "/mock-application-hendy/static/js/main.b1739205.js.map",
     "787.af94f0b6.chunk.js.map": "/mock-application-hendy/static/js/787.af94f0b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9e84470.css",
+    "static/css/main.edd82638.css",
     "static/js/main.b1739205.js"
   ]
 }

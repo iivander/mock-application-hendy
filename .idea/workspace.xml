@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea86b56e-33a9-4043-945d-da0c5fab7ef7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DriverInformation/DriverInformation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DriverInformation/DriverInformation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TripInformation/TripInformation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TripInformation/TripInformation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VibeInformation/VibeInformation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VibeInformation/VibeInformation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/TextBlock/TextBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/TextBlock/TextBlock.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +70,7 @@
       <workItem from="1649095829661" duration="4679000" />
       <workItem from="1649100892039" duration="1016000" />
       <workItem from="1649102039247" duration="2327000" />
-      <workItem from="1649104474580" duration="22031000" />
+      <workItem from="1649104474580" duration="23019000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize app: Create-React-App">
       <created>1649088237905</created>
@@ -121,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649166993292</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: refactor web view to not use swiper">
+      <created>1649168462744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649168462744</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +134,9 @@
     <MESSAGE value="Checkpoint: implementing useReducer for state management" />
     <MESSAGE value="feat: done!" />
     <MESSAGE value="feat: Deploy to Github Pages!" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Deploy to Github Pages!" />
+    <MESSAGE value="feat: some css clean up" />
+    <MESSAGE value="feat: web view not using swiper" />
+    <MESSAGE value="feat: refactor web view to not use swiper" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: refactor web view to not use swiper" />
   </component>
 </project>

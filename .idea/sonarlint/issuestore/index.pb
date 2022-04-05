@@ -9,12 +9,8 @@ A
 public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
 F
 src/reportWebVitals.js,1/c/1ce5e63ae1582ed0b425c46001299a07515efbf9
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-N
-src/components/App/App.test.js,d/c/dcb965f6fcf4fc927957640f78a59364823991ae
 J
 src/components/App/App.css,a/d/ad5b34e3c4315b7a665ee107a564cd5237747100

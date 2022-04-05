@@ -2,49 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea86b56e-33a9-4043-945d-da0c5fab7ef7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/DriverInformation/DriverInformation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DriverInformation/DriverInformation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TripInformation/TripInformation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VehicleInformation/VehicleInformation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VehicleInformation/VehicleInformation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VibeInformation/VibeInformation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VibeInformation/VibeInformation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/AddressBlock/AddressBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/AddressBlock/AddressBlock.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/ArrivalBlock/ArrivalBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/ArrivalBlock/ArrivalBlock.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/Button/Button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/HorizontalLine/HorizontalLine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/HorizontalLine/HorizontalLine.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/TextBlock/TextBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/TextBlock/TextBlock.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/TextBlock/TextBlock.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/ArrivalBlock/ArrivalBlock.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Button/Button.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/HorizontalLine/HorizontalLine.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcb965f6fcf4fc927957640f78a59364823991ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/data/mission.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/data/mission.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-Black.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-BlackItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-BoldItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-DemiBold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-DemiBoldItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-ExtraBlack.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-Italic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-Medium.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-MediumItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd-XBlackItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Linotype - OptimaLTStd.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Trip/Trip.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Trip/Trip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TripInformation/TripInformation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contexts/TripContext/TripContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/TripContext/TripContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +78,7 @@
       <workItem from="1649095829661" duration="4679000" />
       <workItem from="1649100892039" duration="1016000" />
       <workItem from="1649102039247" duration="2327000" />
-      <workItem from="1649104474580" duration="19477000" />
+      <workItem from="1649104474580" duration="20653000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize app: Create-React-App">
       <created>1649088237905</created>
@@ -141,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649100516953</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: done!">
+      <created>1649132948273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649132948273</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +126,7 @@
     <MESSAGE value="Initialize app: Create-React-App" />
     <MESSAGE value="Installed Swiper.js" />
     <MESSAGE value="Checkpoint: implementing useReducer for state management" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checkpoint: implementing useReducer for state management" />
+    <MESSAGE value="feat: done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: done!" />
   </component>
 </project>

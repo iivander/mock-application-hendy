@@ -1,5 +1,11 @@
 #yourDriver {
   padding: 2rem 2rem;
+  position: relative;
+
+  // Mobile-screen
+  @media (max-width: 767px) {
+    height: calc(100% - 4rem - 6.5rem);
+  }
 
   & .driver-image {
     width: 100%;
@@ -28,6 +34,16 @@
   }
 
   & .your-driver-cancel-button {
-    margin-top: 2rem;
+    // Mobile-screen
+    @media (max-width: 767px) {
+      position: absolute;
+      bottom: 0;
+      width: 85%;
+    }
+
+    // Web-screen
+    @media (min-width: 768px) {
+      margin-top: 2rem;
+    }
   }
 }

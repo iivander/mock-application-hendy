@@ -2,7 +2,17 @@
   display: flex;
   flex-direction: column;
   padding: 2rem 2rem;
-  height: 46rem;
+  position: relative;
+
+  // Mobile-screen
+  @media (max-width: 767px) {
+    height: calc(100% - 4rem - 6.5rem);
+  }
+
+  // Web-screen
+  @media (min-width: 768px) {
+    height: 46rem;
+  }
 
   & .map-overview {
     // Mobile-screen
@@ -26,6 +36,16 @@
   }
 
   & .your-vibe-change-button {
-    margin-top: 2rem;
+    // Mobile-screen
+    @media (max-width: 767px) {
+      position: absolute;
+      bottom: 0;
+      width: 85%;
+    }
+
+    // Web-screen
+    @media (min-width: 768px) {
+      margin-top: 2rem;
+    }
   }
 }

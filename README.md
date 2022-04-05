@@ -5,6 +5,17 @@
 
 The application is mobile-responsive, when you switch to a mobile screen, it will have different behavior than web-screen.
 
+### To switch to Mobile screen via Web Chrome
+- Click on anywhere on the webpage and Right Click to 'Inspect'.
+- Click on 'Toggle Device Toolbar' (right of `Elements` section) to toggle to any mobile device.
+
+### Overview of the Project
+- Entry point of the project is through App.js
+- Components folder are the 'smarter' layer
+- Library folder are the 'dumber' layer and reusable component
+- Using useReducer as state management and useContext instead of prop drilling
+- Unit tests are still TODO
+
 ## Create-React-App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

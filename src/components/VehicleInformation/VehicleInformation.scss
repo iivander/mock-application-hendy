@@ -7,7 +7,7 @@
     // Mobile-screen
     @media (max-width: 767px) {
       margin-top: 3rem;
-      max-height: 200px;
+      max-height: 12.5rem;
       object-fit: cover;
       object-position: top;
     }
@@ -15,7 +15,7 @@
     // Web-screen
     @media (min-width: 768px) {
       transform: scale(.5);
-      height: 400px;
+      height: 25rem;
       align-self: center;
     }
   }
